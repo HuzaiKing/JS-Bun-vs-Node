@@ -1,0 +1,1 @@
+console.log("The console is from node environment")
